@@ -1,3 +1,3 @@
-let a = prompt('Как тебя зовут?');
+let a = prompt('What is your name?');
 
 alert('Hello, '+ a + '! ' + 'How are you?')
